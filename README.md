@@ -591,3 +591,290 @@
 
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>फ्रांस की क्रांति: विस्तृत पाठ योजनाएं</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Custom styles for Hindi font and mobile readability */
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f8fafc; /* Light blue-gray background */
+        }
+        /* Custom table styling for better separation */
+        .lesson-table th {
+            background-color: #eff6ff; /* Blue 50 for table header */
+            color: #1e3a8a; /* Dark blue text */
+            padding: 12px 8px;
+            text-align: center;
+        }
+        .lesson-table td {
+            padding: 10px 8px;
+            text-align: left;
+            vertical-align: top; /* Ensure content aligns nicely */
+        }
+        /* Zebra-striping for rows */
+        .lesson-table tbody tr:nth-child(odd) {
+            background-color: #ffffff; /* White stripe */
+        }
+        .lesson-table tbody tr:nth-child(even) {
+            background-color: #f9fafb; /* Lighter stripe */
+        }
+        .activity-cell {
+            font-size: 0.85rem; /* Slightly smaller text for dense content */
+            line-height: 1.4;
+        }
+        .question-text {
+            font-weight: 600;
+            color: #3b82f6; /* Blue for Questions */
+        }
+        .explanation-text {
+            color: #1f2937; /* Dark gray for Explanation */
+            margin-top: 4px;
+            display: block;
+        }
+        .summary-text {
+            font-size: 0.8rem;
+            color: #4b5563;
+        }
+        /* Student reaction styling */
+        .student-reaction {
+            font-weight: 500;
+            color: #059669; /* Green for Action/Reaction */
+            margin-top: 4px;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="max-w-4xl mx-auto p-4 sm:p-6 lg:p-8">
+        <header class="text-center mb-10 bg-white p-6 rounded-2xl shadow-lg border-b-4 border-blue-600">
+            <h1 class="text-3xl sm:text-4xl font-extrabold text-gray-800">✨ फ्रांस की क्रांति: विस्तृत पाठ योजनाएँ</h1>
+            <p class="mt-2 text-xl font-medium text-blue-600">छात्रों की प्रतिक्रिया और सहभागिता सहित</p>
+            <p class="mt-4 text-sm text-gray-500">तैयारकर्ता: ABHISHEK JHA BRAHMAN</p>
+        </header>
+
+        <!-- Lesson Plan 1 -->
+        <div class="bg-white p-5 sm:p-8 rounded-2xl shadow-xl mb-12 border-t-4 border-blue-500">
+            <h2 class="text-2xl sm:text-3xl font-bold text-gray-800 mb-6 flex items-center">
+                <span class="mr-3 text-3xl">🚀</span> पाठ योजना 1: क्रांति की नींव
+            </h2>
+
+            <!-- Metadata Table -->
+            <div class="overflow-x-auto mb-6">
+                <table class="w-full lesson-table text-sm border-collapse border border-gray-200 rounded-lg">
+                    <thead>
+                        <tr><th class="rounded-tl-lg">📚 खंड</th><th>📝 विवरण</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>**SUBJECT**</td><td>**इतिहास** (सामाजिक विज्ञान)</td></tr>
+                        <tr><td>**TOPIC**</td><td>**फ्रांसीसी समाज और क्रांति के कारण** (18वीं सदी)</td></tr>
+                        <tr><td>**SPECIFICS AIMS**</td><td>1. विद्यार्थी 'तीन एस्टेट्स' की व्यवस्था का वर्णन कर सकेंगे। <br> 2. विद्यार्थी क्रांति के प्रमुख आर्थिक और वैचारिक कारणों को समझा सकेंगे।</td></tr>
+                        <tr><td>**TEACHING AIDS**</td><td>श्यामपट, चौक, **फ्रांस के तीन एस्टेट्स को दर्शाता पिरामिड चार्ट**। [attachment_0](attachment)</td></tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- Introduction Section -->
+            <h3 class="text-xl font-semibold text-blue-700 mt-8 mb-4 flex items-center"><span class="mr-2 text-xl">🎯</span> TITLE: INTRODUCTION (परिचय)</h3>
+            <p class="text-lg font-medium text-gray-700 bg-yellow-50 p-3 rounded-lg border-l-4 border-yellow-500">
+                **⭐ STATEMENT OF THE AIM:** "बच्चों, आज हम 18वीं सदी के फ्रांसीसी समाज की अन्यायपूर्ण व्यवस्था, **'तीन एस्टेट्स'** के विभाजन और उन कारणों का विस्तृत अध्ययन करेंगे जिन्होंने क्रांति का मार्ग प्रशस्त किया।"
+            </p>
+
+            <!-- Presentation Section -->
+            <h3 class="text-xl font-semibold text-blue-700 mt-8 mb-4 flex items-center"><span class="mr-2 text-xl">📝</span> TITLE : PRESENTATION (शिक्षण बिंदु)</h3>
+            <div class="overflow-x-auto">
+                <table class="w-full lesson-table text-sm border-collapse border border-gray-200">
+                    <thead>
+                        <tr>
+                            <th class="w-1/4">📌 TEACHING POINT</th>
+                            <th class="w-1/4">🎤 शिक्षक क्रियाएँ (प्रश्न + व्याख्या)</th>
+                            <th class="w-1/4">🤔 छात्र क्रियाएँ</th>
+                            <th class="w-1/4">칠 श्यामपट कार्य</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>**1. फ्रांसीसी समाज का विभाजन**</td>
+                            <td class="activity-cell">
+                                <span class="question-text">प्रश्न: फ्रांसीसी समाज कितने मुख्य वर्गों (एस्टेट्स) में बंटा था?</span>
+                                <span class="explanation-text">**व्याख्या:** फ्रांस का समाज **तीन एस्टेट्स** में बंटा था: **प्रथम** (पादरी), **द्वितीय** (कुलीन), और **तृतीय** (जनसाधारण)। 90% आबादी किसान थी, लेकिन 60% जमीन पर प्रथम दो एस्टेट्स का कब्जा था।</span>
+                            </td>
+                            <td class="activity-cell">
+                                <span>**उत्तर:** तीन एस्टेट्स: पादरी, कुलीन और जनसाधारण।</span>
+                                <span class="student-reaction">**प्रतिक्रिया:** छात्र ध्यानपूर्वक सुनते हैं और समाज के विभाजन को नोट करते हैं।</span>
+                            </td>
+                            <td class="summary-text">**तीन एस्टेट्स:** <br> 1. पादरी <br> 2. कुलीन <br> 3. जनसाधारण</td>
+                        </tr>
+                        <tr>
+                            <td>**2. जन्म आधारित विशेषाधिकार**</td>
+                            <td class="activity-cell">
+                                <span class="question-text">प्रश्न: प्रथम दो एस्टेट्स को कौन से जन्मसिद्ध अधिकार प्राप्त थे?</span>
+                                <span class="explanation-text">**व्याख्या:** इन्हें जन्म से ही **करों से पूर्ण छूट** प्राप्त थी। कुलीन किसानों से सामंती कर भी वसूलते थे।</span>
+                            </td>
+                            <td class="activity-cell">
+                                <span>**उत्तर:** करों से छूट और सामंती अधिकार।</span>
+                                <span class="student-reaction">**प्रतिक्रिया:** छात्र आश्चर्य व्यक्त करते हैं और समझते हैं कि करों का बोझ केवल तीसरे एस्टेट पर क्यों था।</span>
+                            </td>
+                            <td class="summary-text">**विशेषाधिकार:** <br> - करों से **पूर्ण छूट** <br> - सामंती अधिकार</td>
+                        </tr>
+                        <tr>
+                            <td>**3. करों का बोझ**</td>
+                            <td class="activity-cell">
+                                <span class="question-text">प्रश्न: तृतीय एस्टेट कौन से दो मुख्य कर चुकाती थी?</span>
+                                <span class="explanation-text">**व्याख्या:** तृतीय एस्टेट चर्च को **'टाइद'** (धार्मिक कर) और सीधे राज्य को **'टाइल'** (प्रत्यक्ष कर) देते थे। इस भारी वित्तीय बोझ ने क्रांति को अपरिहार्य बना दिया।</span>
+                            </td>
+                            <td class="activity-cell">
+                                <span>**उत्तर:** टाइद और टाइल।</span>
+                                <span class="student-reaction">**प्रतिक्रिया:** करों के नाम और उनके प्रकार (धार्मिक/प्रत्यक्ष) को अपनी कॉपी में लिखते हैं।</span>
+                            </td>
+                            <td class="summary-text">**मुख्य कर:** <br> - **टाइद** (चर्च को) <br> - **टाइल** (राज्य को)</td>
+                        </tr>
+                        <tr>
+                            <td>**4. जीविका संकट**</td>
+                            <td class="activity-cell">
+                                <span class="question-text">प्रश्न: जीविका संकट क्या था और इसका क्रांति से क्या संबंध था?</span>
+                                <span class="explanation-text">**व्याख्या:** जनसंख्या वृद्धि और खराब फसल के कारण **भोजन की कीमतें आसमान छू गईं**। भुखमरी की यह स्थिति **'जीविका संकट'** कहलाई, जो विद्रोह का तात्कालिक कारण बनी।</span>
+                            </td>
+                            <td class="activity-cell">
+                                <span>**उत्तर:** भोजन की कमी और कीमतों में वृद्धि।</span>
+                                <span class="student-reaction">**प्रतिक्रिया:** 'जीविका संकट' की परिभाषा समझते हैं और इससे उत्पन्न भुखमरी की स्थिति पर चर्चा करते हैं।</span>
+                            </td>
+                            <td class="summary-text">**जीविका संकट:** <br> - मांग बढ़ी, उत्पादन कम <br> - **भुखमरी** की स्थिति</td>
+                        </tr>
+                        <tr>
+                            <td>**5. दार्शनिकों की भूमिका**</td>
+                            <td class="activity-cell">
+                                <span class="question-text">प्रश्न: किन दार्शनिकों ने 'जन्मसिद्ध विशेषाधिकार' के विचार का खंडन किया?</span>
+                                <span class="explanation-text">**व्याख्या:** **जॉन लॉक** ने निरंकुश अधिकारों का खंडन किया। **रूसो** ने *सामाजिक अनुबंध* का विचार रखा। **मॉन्टेस्क्यू** ने *सत्ता के विभाजन* का सिद्धांत दिया।</span>
+                            </td>
+                            <td class="activity-cell">
+                                <span>**उत्तर:** रूसो, लॉक, मॉन्टेस्क्यू।</span>
+                                <span class="student-reaction">**प्रतिक्रिया:** दार्शनिकों के नाम और उनके मुख्य सिद्धांतों को श्यामपट से लिखते हैं।</span>
+                            </td>
+                            <td class="summary-text">**दार्शनिकों के सिद्धांत:** <br> - रूसो: **सामाजिक अनुबंध** <br> - मॉन्टेस्क्यू: **शक्ति विभाजन**</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- Recap and Homework -->
+            <div class="mt-8 pt-4 border-t border-gray-200">
+                <h3 class="text-xl font-semibold text-green-700 flex items-center mb-3"><span class="mr-2 text-xl">💡</span> RECAPITULATION (पुनरावृत्ति)</h3>
+                <p class="text-gray-600 pl-2">"हमने जाना कि फ्रांसीसी समाज में विशेषाधिकारों और करों का असमान वितरण, राजकोष का खाली होना और जीविका संकट क्रांति के मुख्य कारण थे, जिसे **जॉन लॉक** और **रूसो** जैसे दार्शनिकों के विचारों ने बौद्धिक आधार प्रदान किया।"</p>
+
+                <h3 class="text-xl font-semibold text-red-700 flex items-center mt-6 mb-3"><span class="mr-2 text-xl">🏠</span> HOME ASSIGNMENT (गृहकार्य)</h3>
+                <ol class="list-decimal list-inside text-gray-600 pl-2">
+                    <li>'जीविका संकट' से आप क्या समझते हैं? यह क्रांति का कारण कैसे बना?</li>
+                </ol>
+            </div>
+        </div>
+
+        <!-- Lesson Plan 2 -->
+        <div class="bg-white p-5 sm:p-8 rounded-2xl shadow-xl mb-12 border-t-4 border-yellow-500">
+            <h2 class="text-2xl sm:text-3xl font-bold text-gray-800 mb-6 flex items-center">
+                <span class="mr-3 text-3xl">⚔️</span> पाठ योजना 2: क्रांति का आरंभ और संवैधानिक राजतंत्र की स्थापना
+            </h2>
+            <!-- Metadata Table -->
+            <div class="overflow-x-auto mb-6">
+                <table class="w-full lesson-table text-sm border-collapse border border-gray-200 rounded-lg">
+                    <thead><tr><th>📚 खंड</th><th>📝 विवरण</th></tr></thead>
+                    <tbody>
+                        <tr><td>**TOPIC**</td><td>**क्रांति की शुरुआत, बास्तील पतन और 1791 का संविधान**</td></tr>
+                        <tr><td>**SPECIFICS AIMS**</td><td>1. विद्यार्थी एस्टेट्स जनरल की बैठक और टेनिस कोर्ट की शपथ के महत्व को समझा सकेंगे। <br> 2. विद्यार्थी **14 जुलाई 1789** की घटना का वर्णन कर सकेंगे।</td></tr>
+                        <tr><td>**TEACHING AIDS**</td><td>श्यामपट, चौक, **बास्तील के किले के पतन का चित्र**। [attachment_1](attachment)</td></tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- Introduction Section -->
+            <h3 class="text-xl font-semibold text-yellow-700 mt-8 mb-4 flex items-center"><span class="mr-2 text-xl">🎯</span> TITLE: INTRODUCTION (परिचय)</h3>
+            <p class="text-lg font-medium text-gray-700 bg-yellow-50 p-3 rounded-lg border-l-4 border-yellow-500">
+                **⭐ STATEMENT OF THE AIM:** "बच्चों, आज हम क्रांति की शुरुआत की महत्वपूर्ण घटनाओं - **एस्टेट्स जनरल की बैठक** से लेकर **बास्तील के पतन** और **1791** में फ्रांस के संवैधानिक राजतंत्र बनने तक का विस्तृत अध्ययन करेंगे।"
+            </p>
+
+            <!-- Presentation Section -->
+            <h3 class="text-xl font-semibold text-yellow-700 mt-8 mb-4 flex items-center"><span class="mr-2 text-xl">📝</span> TITLE : PRESENTATION (शिक्षण बिंदु)</h3>
+            <div class="overflow-x-auto">
+                <table class="w-full lesson-table text-sm border-collapse border border-gray-200">
+                    <thead>
+                        <tr><th class="w-1/4">📌 TEACHING POINT</th><th class="w-1/4">🎤 शिक्षक क्रियाएँ (प्रश्न + व्याख्या)</th><th class="w-1/4">🤔 छात्र क्रियाएँ</th><th class="w-1/4">칠 श्यामपट कार्य</th></tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>**1. एस्टेट्स जनरल की बैठक**</td>
+                            <td class="activity-cell">
+                                <span class="question-text">प्रश्न: लुई 16वें ने नए करों को लागू करने के लिए किस संस्था की अंतिम बैठक बुलाई?</span>
+                                <span class="explanation-text">**व्याख्या:** 5 मई 1789 को बैठक बुलाई गई। तृतीय एस्टेट ने **'एक व्यक्ति, एक वोट'** की मांग की, जिसे राजा ने अस्वीकार कर दिया।</span>
+                            </td>
+                            <td class="activity-cell">
+                                <span>**उत्तर:** एस्टेट्स जनरल की बैठक।</span>
+                                <span class="student-reaction">**प्रतिक्रिया:** छात्र वोटिंग के तरीके पर चर्चा करते हैं और समझते हैं कि तृतीय एस्टेट क्यों बाहर चला गया।</span>
+                            </td>
+                            <td class="summary-text">**5 मई 1789:** <br> - एस्टेट्स जनरल बैठक <br> - विवाद: **'एक व्यक्ति, एक वोट'**</td>
+                        </tr>
+                        <tr>
+                            <td>**2. टेनिस कोर्ट की शपथ**</td>
+                            <td class="activity-cell">
+                                <span class="question-text">प्रश्न: राजा द्वारा मांग ठुकराए जाने पर तृतीय एस्टेट ने क्या फैसला किया?</span>
+                                <span class="explanation-text">**व्याख्या:** 20 जून को प्रतिनिधियों ने खुद को **'नेशनल असेंबली'** घोषित किया और संविधान बनने तक नहीं हटने की शपथ ली।</span>
+                            </td>
+                            <td class="activity-cell">
+                                <span>**उत्तर:** खुद को नेशनल असेंबली घोषित किया।</span>
+                                <span class="student-reaction">**प्रतिक्रिया:** छात्र 20 जून की घटना को अपनी कॉपी में दर्ज करते हैं, इसे क्रांति की पहली बड़ी राजनीतिक घटना मानते हैं।</span>
+                            </td>
+                            <td class="summary-text">**टेनिस कोर्ट शपथ:** <br> - नेशनल असेंबली का गठन <br> - संविधान बनाने की शपथ</td>
+                        </tr>
+                        <tr>
+                            <td>**3. बास्तील का पतन**</td>
+                            <td class="activity-cell">
+                                <span class="question-text">प्रश्न: 14 जुलाई 1789 की घटना को क्रांति का आरंभ क्यों माना जाता है?</span>
+                                <span class="explanation-text">**व्याख्या:** 14 जुलाई 1789 को भीड़ ने निरंकुश शक्ति के प्रतीक **बास्तील जेल** पर हमला कर उसे ढहा दिया। यह निरंकुशता के खिलाफ विद्रोह का प्रतीक बनी।</span>
+                            </td>
+                            <td class="activity-cell">
+                                <span>**उत्तर:** क्योंकि यह निरंकुशता का प्रतीक था।</span>
+                                <span class="student-reaction">**प्रतिक्रिया:** बास्तील के पतन के चित्र को देखते हैं और इसके प्रतीकात्मक महत्व को समझते हैं।</span>
+                            </td>
+                            <td class="summary-text">**14 जुलाई 1789:** <br> - **बास्तील पर हमला** <br> - निरंकुशता का अंत</td>
+                        </tr>
+                        <tr>
+                            <td>**4. सामंती व्यवस्था का अंत**</td>
+                            <td class="activity-cell">
+                                <span class="question-text">प्रश्न: बास्तील पतन के बाद नेशनल असेंबली ने क्या महत्वपूर्ण कानून पारित किया?</span>
+                                <span class="explanation-text">**व्याख्या:** 4 अगस्त 1789 को **सामंती व्यवस्था** और **जन्मसिद्ध विशेषाधिकारों** को समाप्त कर दिया गया। चर्च के कर भी समाप्त किए गए।</span>
+                            </td>
+                            <td class="activity-cell">
+                                <span>**उत्तर:** सामंती व्यवस्था को समाप्त करने का कानून।</span>
+                                <span class="student-reaction">**प्रतिक्रिया:** इस कानून को क्रांति की सबसे बड़ी उपलब्धि मानते हैं और नोट करते हैं कि इससे समाज में समानता स्थापित हुई।</span>
+                            </td>
+                            <td class="summary-text">**4 अगस्त 1789:** <br> - **सामंती व्यवस्था समाप्त** <br> - विशेषाधिकार समाप्त</td>
+                        </tr>
+                        <tr>
+                            <td>**5. 1791 का संविधान**</td>
+                            <td class="activity-cell">
+                                <span class="question-text">प्रश्न: 1791 के संविधान का मुख्य लक्ष्य क्या था?</span>
+                                <span class="explanation-text">**व्याख्या:** इसका लक्ष्य **सम्राट की शक्तियों को सीमित करना** था। फ्रांस एक **संवैधानिक राजतंत्र** बन गया। शक्ति का विभाजन विधायिका, कार्यपालिका और न्यायपालिका में किया गया।</span>
+                            </td>
+                            <td class="activity-cell">
+                                <span>**उत्तर:** राजा की शक्तियों को सीमित करना।</span>
+                                <span class="student-reaction">**प्रतिक्रिया:** संवैधानिक राजतंत्र और शक्ति के विभाजन की अवधारणा को समझते हैं और इसे नोट करते हैं।</span>
+                            </td>
+                            <td class="summary-text">**1791 संविधान:** <br> - संवैधानिक राजतंत्र <br> - शक्ति का विभाजन</td>
+                        </tr>
+                        <tr>
+                            <td>**6. मानवाधिकारों की घोषणा**</td>
+                            <td class="activity-cell">
+                                <span class="question-text">प्रश्न: क्या 1791 के संविधान ने सभी को वोट का अधिकार दिया?</span>
+                                <span class="explanation-text">**व्याख्या:** नहीं। मतदान का अधिकार केवल **'सक्रिय नागरिकों'** (25 वर्ष से अधिक उम्र के अमीर पुरुष) को ही मिला। बाकी **'निष्क्रिय नागरिक'** थे।</span>
+                            </td>
+                            <td class="activity-cell">
+                                <span>**उत्तर:** नहीं, केवल कुछ अमीर पुरुषों को।</span>
+                                <span class="student-reaction">**प्रतिक्रिया:** 'सक्रिय' और 'निष्क्रिय' नागरिकों की परिभाषा को समझते हैं और इस भेदभाव पर प्रश्न उठाते हैं।</span>
+                            </td>
+                            <td class="summary-text">**अधिकारों में भेदभाव:** <br> - **सक्रिय** / **निष्क्रिय** नागरिक</td>
+                 
